@@ -1,0 +1,1 @@
+cmd_hahayes/include/misc/.install := /bin/bash ../scripts/headers_install.sh hahayes/include/misc ../include/uapi/misc cxl.h; /bin/bash ../scripts/headers_install.sh hahayes/include/misc ./include/generated/uapi/misc ; touch hahayes/include/misc/.install

@@ -1,0 +1,1 @@
+cmd_hahayes/include/video/.install := /bin/bash ../scripts/headers_install.sh hahayes/include/video ../include/uapi/video uvesafb.h edid.h sisfb.h; /bin/bash ../scripts/headers_install.sh hahayes/include/video ./include/generated/uapi/video ; touch hahayes/include/video/.install
